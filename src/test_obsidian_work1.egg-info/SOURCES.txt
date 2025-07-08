@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+src/test_obsidian_work1/__init__.py
+src/test_obsidian_work1/core.py
+src/test_obsidian_work1.egg-info/PKG-INFO
+src/test_obsidian_work1.egg-info/SOURCES.txt
+src/test_obsidian_work1.egg-info/dependency_links.txt
+src/test_obsidian_work1.egg-info/requires.txt
+src/test_obsidian_work1.egg-info/top_level.txt
+tests/test_main.py
