@@ -4,7 +4,11 @@ version = "0.1.1"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
-dependencies = [ "toml==0.10.2",]
+dependencies = [
+ "llmada>=1.0.3",
+ "toml==0.10.2",
+ "openai",
+]
 
 [tool.setuptools.package-data]
 test_obsidian_work1 = [ "config.yaml",]
